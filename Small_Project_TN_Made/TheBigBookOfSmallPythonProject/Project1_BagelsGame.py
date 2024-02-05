@@ -11,6 +11,7 @@ from random import shuffle
 c_i_MAX_GUESS = 10
 c_i_NUM_DIGITS = 3
 
+
 # Main fx of the game
 def BagelsGame():
     # Print the introduction of the game
@@ -34,7 +35,7 @@ def BagelsGame():
     while True:
 
         # Create a secret number
-        s_answer = f_GetSecretNum()
+        s_answer = __f_GetSecretNum()
 
         # Create a value for increment
         i_TimeGuess = 1
@@ -57,7 +58,7 @@ def BagelsGame():
                         str_UserGuess = input("  👉Make sure that U enter {} numbers only: ".format(c_i_NUM_DIGITS))
 
                 # Check the guess then show the clue to player
-                str_Clues = f_GetClue(s_answer, str_UserGuess)  # Contain the clue
+                str_Clues = __f_GetClue(s_answer, str_UserGuess)  # Contain the clue
                 if str_UserGuess == s_answer:
                     print(str_Clues + "\n")
                     break
@@ -84,8 +85,9 @@ def BagelsGame():
 
         print("\n🥰🥰🥰YESSSS DADDYYYYYYYY🥰🥰🥰\n")
 
+
 # Create a fx to make a secret number
-def f_GetSecretNum():
+def __f_GetSecretNum():
     # Create a list of number
     numbers = list('0123456789')
 
@@ -101,9 +103,9 @@ def f_GetSecretNum():
 
     return result
 
-# Create a fx for checking the guess from player
-def f_GetClue(secret_num, user_guess):
 
+# Create a fx for checking the guess from player
+def __f_GetClue(secret_num, user_guess):
     # Make a blank list to contain the clue
     clue = []
 
@@ -130,6 +132,7 @@ def f_GetClue(secret_num, user_guess):
 
     # return clues as a string
     return '  🔎The clue for U is: ' + ' '.join(clue)
+
 
 # If the program is run (instead of imported), run the game:
 if __name__ == '__main__':
