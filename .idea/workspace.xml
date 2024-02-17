@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9441c6e9-92fe-45e3-8e8e-29ad379c8834" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/Test_[LearnPy3].py/test.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Small_Project_TN_Made/TheBigBookOfSmallPythonProject/Project12_CollatzSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Note/Screenshot 2024-01-07 at 11.25.33 AM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
@@ -16,7 +16,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Learn Python.iml" beforePathEscaped="$PROJECT_DIR$/.idea/🐍Learn Python.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Advance_Python/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advance_Python/Advanced Python - NeuralNine/Lec10_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_[LearnPy3].py/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance_Python/Advanced Python - NeuralNine/Lec10_.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Advance_Python/Advanced Python - NeuralNine/Lec1_MagicMethodDunder.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Advance_Python/Advanced Python - NeuralNine/Lec2_Decorator.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Advance_Python/Advanced Python - NeuralNine/Lec2_result.txt" beforeDir="false" />
@@ -67,7 +67,6 @@
       <change beforePath="$PROJECT_DIR$/Class_Python/TestClass/Test2.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Class_Python/TestClass/Test3.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Class_Python/TestClass/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Colered Text.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Icon&#10;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Note/@ in Python/Ảnh màn hình 2023-06-23 lúc 9.39.48 CH.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Note/Automatic email in Python.JPG" beforeDir="false" />
@@ -115,7 +114,6 @@
       <change beforePath="$PROJECT_DIR$/Note/I. DONE_[LearnPy3]_TNguyen's Old Memory/II. GOING ON_[LearnPy3]/6. Strings_[LearnPy3].py/6.7 _[LearnPy3].py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Note/I. DONE_[LearnPy3]_TNguyen's Old Memory/II. GOING ON_[LearnPy3]/IMG_3406.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Note/I. DONE_[LearnPy3]_TNguyen's Old Memory/III. INCOMPLETE_[LearnPy3]/9. Lists_[LearnPy3].py/NoteOfList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note/Id in memory.mov" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Note/List &amp; Tuple in Python/IMG_2046.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Note/List &amp; Tuple in Python/RPReplay_Final1675517333.mov" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Note/List &amp; Tuple in Python/Ảnh chụp Màn hình 2022-12-24 lúc 4.57.35 CH.png" beforeDir="false" />
@@ -146,9 +144,6 @@
       <change beforePath="$PROJECT_DIR$/Note/String in Python/IMG_2177.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Note/String in Python/Ảnh màn hình 2023-06-03 lúc 1.21.50 SA.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Note/String in Python/Ảnh màn hình 2023-06-03 lúc 1.26.57 SA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note/Super Chanrged Function.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note/Ảnh màn hình 2023-06-24 lúc 7.27.42 CH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note/Ảnh màn hình 2023-08-16 lúc 5.08.49 CH.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_3WSchool/1. Data Type.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_3WSchool/11. Inheritance.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_3WSchool/12. Iterators.ipynb" beforeDir="false" />
@@ -172,37 +167,19 @@
       <change beforePath="$PROJECT_DIR$/Python_3WSchool/7. Dictionary.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_3WSchool/8. If_else_For_While.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_3WSchool/9. Function_Lambda.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_3WSchool/Icon&#10;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_3WSchool/~10. Classes and Objects.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot 2023-10-06 at 3.28.29 AM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot 2023-10-31 at 1.55.22 AM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/.idea/SmallProjectTNMade_[LearnPy3].iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/.idea/pythonProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/FindRoot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/GreatestCommonDivisor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/MyMathFunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/PadeApproximation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/TaylorExpansion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/constant.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/DoMathWithPython_[LearnPy3]/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/Icon&#10;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/Note2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/Phone.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/Python_Link.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/TheBigBookOfSmallPythonProject/Project1_BagelsGame.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/password_generator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Small Project TN Made/phone.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/.idea/SmallProjectTNMade_[LearnPy3].iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/Phone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/TheBigBookOfSmallPythonProject/Project12_CollatzSequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/TheBigBookOfSmallPythonProject/Project1_BagelsGame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Small_Project_TN_Made/TheBigBookOfSmallPythonProject/Project6_CaeserCipher.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/System_Python/Asyncio/Lec1_AsyncAwait.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/System_Python/Asyncio/Lec2_.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/System_Python/Asyncio/Lec3_.py" beforeDir="false" />
@@ -223,16 +200,8 @@
       <change beforePath="$PROJECT_DIR$/System_Python/Threading/Lec2_.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/System_Python/Threading/Lec3_.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/System_Python/Threading/Lec4_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_[LearnPy3].py/Test0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_[LearnPy3].py/Test1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_[LearnPy3].py/Test2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_[LearnPy3].py/Test3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_[LearnPy3].py/Test4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_[LearnPy3].py/Test5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_[LearnPy3].py/Test6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_[LearnPy3].py/Test7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_[LearnPy3].py/Test8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unique in Numpy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py/Test0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py/Test0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py/Test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py/Test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -380,7 +349,11 @@
       <workItem from="1698917190005" duration="8218000" />
       <workItem from="1705331526014" duration="45000" />
       <workItem from="1706795473211" duration="18050000" />
-      <workItem from="1706979466188" duration="5323000" />
+      <workItem from="1706979466188" duration="5338000" />
+      <workItem from="1707132180514" duration="3135000" />
+      <workItem from="1707493368683" duration="1248000" />
+      <workItem from="1707494722645" duration="827000" />
+      <workItem from="1707624119066" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -477,11 +450,11 @@
     <SUITE FILE_PATH="coverage/Python_Learn$Random.coverage" NAME="Random Coverage Results" MODIFIED="1698916847384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class_Python/MyClassFile" />
     <SUITE FILE_PATH="coverage/Python_Learn$Test7.coverage" NAME="Test7 Coverage Results" MODIFIED="1706980784048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_[LearnPy3].py" />
     <SUITE FILE_PATH="coverage/Python_Learn$Lec5_Encapsulation.coverage" NAME="Lec5_Encapsulation Coverage Results" MODIFIED="1698914084664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance_Python" />
-    <SUITE FILE_PATH="coverage/Python_Learn$Test0.coverage" NAME="Test0 Coverage Results" MODIFIED="1706809084075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_[LearnPy3].py" />
+    <SUITE FILE_PATH="coverage/Python_Learn$Test0.coverage" NAME="Test0 Coverage Results" MODIFIED="1707493804757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test.py" />
     <SUITE FILE_PATH="coverage/Python_Learn$RandomClass.coverage" NAME="RandomClass Coverage Results" MODIFIED="1698916931175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class_Python" />
     <SUITE FILE_PATH="coverage/Python_Learn$Test6.coverage" NAME="Test6 Coverage Results" MODIFIED="1706807123370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_[LearnPy3].py" />
     <SUITE FILE_PATH="coverage/Python_Learn$Colered_Text.coverage" NAME="Colered Text Coverage Results" MODIFIED="1698913494212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/I. DONE_[LearnPy3]" />
-    <SUITE FILE_PATH="coverage/Python_Learn$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1706898621557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_[LearnPy3].py" />
+    <SUITE FILE_PATH="coverage/Python_Learn$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1707151633357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test.py" />
     <SUITE FILE_PATH="coverage/Python_Learn$Project12_CollatzSequence.coverage" NAME="Project12_CollatzSequence Coverage Results" MODIFIED="1706860400291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Small_Project_TN_Made/TheBigBookOfSmallPythonProject" />
   </component>
 </project>
